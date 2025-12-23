@@ -1,0 +1,22 @@
+[
+  {
+    "id": "shirt-1",
+    "name": "Classic White T-Shirt",
+    "price": 399,
+    "category": "Tops",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["white", "black"],
+    "image": "/images/shirt-1.jpg",
+    "description": "A comfortable classic white tee made from cotton."
+  },
+  {
+    "id": "shirt-2",
+    "name": "Denim Jacket",
+    "price": 1999,
+    "category": "Outerwear",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["blue"],
+    "image": "/images/shirt-2.jpg",
+    "description": "Stylish denim jacket with a modern fit."
+  }
+]
